@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#pai{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 500px;
+    height: 370px;
+    margin: 0% auto;
+    margin-top: 20vh;
+    border-radius: 20px;
+    text-align: center;
+    color: black;
+}
+
+h2{
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+input{
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 0ch;
+    outline: 0ch;
+}
+
+input:hover{
+    cursor: pointer;
+}
+
+textarea{
+    resize: none;
+    margin: 10px;
+    border-radius: 10px;
+    outline: 0ch;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin-top: 4vh;
+}
